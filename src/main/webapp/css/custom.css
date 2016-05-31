@@ -1,0 +1,16 @@
+.table th, .table td { 
+     border-top: none !important; 
+ }
+ 
+ .filmDetails {
+ 	padding-top: 0px;
+ }
+ 
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-brand {float:none;}
